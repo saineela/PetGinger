@@ -1,5 +1,5 @@
 # PetGinger
 
-BobaDrops Hackclub - Hackovation Club
+BobaDrops Hack Club - Hackovation Club
 
 Made with Hack Club Spaces 💖
